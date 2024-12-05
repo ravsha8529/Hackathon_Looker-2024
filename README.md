@@ -7,7 +7,7 @@ We've created a dashboard that helps users decide on a used car to purchase base
 Our methodology leverages a recommendation system that uses advanced data processing techniques to analyze key attributes such as year, mileage, price, fuel type, safety ratings, and more. By comparing these features, we identify cars that align closely with your chosen vehicle, ensuring recommendations tailored to your needs.
 
 Demo video link
-Demo slides
+[Demo slides](https://docs.google.com/presentation/d/1kqTS9dd71t5_Bg9dTsPL6iH31KUBq7UE/edit?rtpof=true)
 Repository
 Working demo link
 Instructions: Everything you need is accessible within the dashboard!
