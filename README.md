@@ -1,6 +1,6 @@
 # Hackathon_Looker-2024
 
-**#What Car Should I Buy?**
+# What Car Should I Buy?**
 
 We've created a dashboard that helps users decide on a used car to purchase based on their preferences and a database of top-rated used cars. Simply select a car you like, and our dashboard will recommend a list of 10 similar cars that match your preferences!
 
